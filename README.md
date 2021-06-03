@@ -19,9 +19,13 @@ script:
 addons:
   
   apt:
+  
     sources:
+  
       - george-edison55-precise-backports
+  
     packages:
+  
       - cmake
       - cmake-data
       - mingw-w64
