@@ -28,3 +28,5 @@ addons:
       - cmake
       - cmake-data
       - mingw-w64
+  
+  https://www.travis-ci.com/razuwaikin/lab04_final.svg?branch=main
