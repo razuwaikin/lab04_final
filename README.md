@@ -29,4 +29,5 @@ addons:
       - cmake-data
       - mingw-w64
   
+ [![Build Status](https://www.travis-ci.com/razuwaikin/lab04_final.svg?branch=main)](https://www.travis-ci.com/razuwaikin/lab04_final)
   https://www.travis-ci.com/razuwaikin/lab04_final.svg?branch=main
